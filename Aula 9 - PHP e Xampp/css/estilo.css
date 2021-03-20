@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lato', sans-serif ;
+}
+.banner{
+    width: 100%;
+    height: auto;
+    background-color: #f9f9f9;
+    background-position: center;
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+a:hover.nav-link{
+    color: darkred;
+}

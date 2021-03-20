@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/phpsistema",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "brian",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["sistema"]
+  },
+  "require": {
+
+  }
+}

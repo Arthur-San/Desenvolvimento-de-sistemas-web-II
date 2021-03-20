@@ -1,0 +1,22 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.banner
+{
+    width: 100%;
+    height: auto;
+    background-color: #f9f9f9;
+    background-position: center;
+}
+.nav-link
+{
+    font-weight:bold;
+    color:black;
+}
+a:hover.nav-link
+{
+    color:red;
+
+}
